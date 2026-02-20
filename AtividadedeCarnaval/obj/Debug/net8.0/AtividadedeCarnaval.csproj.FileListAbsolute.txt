@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\bin\Debug\net8.0\AtividadedeCarnaval.exe
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\bin\Debug\net8.0\AtividadedeCarnaval.deps.json
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\bin\Debug\net8.0\AtividadedeCarnaval.runtimeconfig.json
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\bin\Debug\net8.0\AtividadedeCarnaval.dll
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\bin\Debug\net8.0\AtividadedeCarnaval.pdb
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\obj\Debug\net8.0\AtividadedeCarnaval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\obj\Debug\net8.0\AtividadedeCarnaval.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\obj\Debug\net8.0\AtividadedeCarnaval.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\obj\Debug\net8.0\AtividadedeCarnaval.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\obj\Debug\net8.0\AtividadedeCarnaval.dll
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\obj\Debug\net8.0\refint\AtividadedeCarnaval.dll
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\obj\Debug\net8.0\AtividadedeCarnaval.pdb
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\obj\Debug\net8.0\AtividadedeCarnaval.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\AtividadedeCarnaval\obj\Debug\net8.0\ref\AtividadedeCarnaval.dll
