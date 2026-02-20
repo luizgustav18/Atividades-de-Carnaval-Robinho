@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Atividadedecarnaval04/1.0.0": {
+        "runtime": {
+          "Atividadedecarnaval04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividadedecarnaval04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

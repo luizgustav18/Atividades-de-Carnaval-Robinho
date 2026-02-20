@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\bin\Debug\net8.0\Atividadedecarnaval04.exe
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\bin\Debug\net8.0\Atividadedecarnaval04.deps.json
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\bin\Debug\net8.0\Atividadedecarnaval04.runtimeconfig.json
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\bin\Debug\net8.0\Atividadedecarnaval04.dll
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\bin\Debug\net8.0\Atividadedecarnaval04.pdb
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\obj\Debug\net8.0\Atividadedecarnaval04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\obj\Debug\net8.0\Atividadedecarnaval04.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\obj\Debug\net8.0\Atividadedecarnaval04.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\obj\Debug\net8.0\Atividadedecarnaval04.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\obj\Debug\net8.0\Atividadedecarnaval04.dll
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\obj\Debug\net8.0\refint\Atividadedecarnaval04.dll
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\obj\Debug\net8.0\Atividadedecarnaval04.pdb
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\obj\Debug\net8.0\Atividadedecarnaval04.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\Atividadedecarnaval04\obj\Debug\net8.0\ref\Atividadedecarnaval04.dll
